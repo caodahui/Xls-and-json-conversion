@@ -1,14 +1,14 @@
 {
   "name": "jsonxls",
   "version": "1.0.0",
-  "description": "",
+  "description": "Xls-and-json-conversion",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "jsonToXls": "node jsonToXls.js",
     "XlstTojson": "node xlsToJson.js"
   },
-  "author": "",
+  "author": "caozhihui <xiaohuihuide@qmail.com>",
   "license": "ISC",
   "devDependencies": {
     "fs": "0.0.1-security",

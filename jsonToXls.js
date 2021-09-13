@@ -1,7 +1,7 @@
 const fs = require('fs')
 const json2xls = require('json2xls');
 
-fs.readFile('./dist/name.json', 'utf8', (err, data) => {
+fs.readFile('./lib/name.json', 'utf8', (err, data) => {
     if (err) throw err;
     const json = JSON.parse(data);
     const jsonArray = [];

@@ -3,7 +3,7 @@ const fs = require("fs");
 const xlsx = require('node-xlsx');
 
 /** 解析excel文档 */
-const sheets = xlsx.parse('./dist/name.xlsx');
+const sheets = xlsx.parse('./lib/name.xlsx');
 const sheet = sheets[0]
 const cn = {}
 const en = {}
