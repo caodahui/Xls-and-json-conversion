@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsonXls.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonToXls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/name.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xlsToJson.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsonToXls.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsonToXls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/name.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xlsToJson.js" beforeDir="false" afterPath="$PROJECT_DIR$/xlsToJson.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +39,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\demo\jsonXls\lib" />
       <recent name="E:\demo\jsonXls\dist" />
       <recent name="D:\jsonXls\dist" />
       <recent name="D:\jsonXls" />
@@ -54,7 +48,7 @@
       <recent name="E:\demo\jsonXls\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.jsonToXls.js">
+  <component name="RunManager" selected="Node.js.xlsToJson.js">
     <configuration name="jsonToXls.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsonToXls.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -93,10 +87,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.jsonToXls.js" />
         <item itemvalue="Node.js.xlsToJson.js" />
-        <item itemvalue="npm.jsonToXls" />
+        <item itemvalue="Node.js.jsonToXls.js" />
         <item itemvalue="npm.XlstTojson" />
+        <item itemvalue="npm.jsonToXls" />
         <item itemvalue="npm.jsToXls" />
       </list>
     </recent_temporary>
@@ -116,7 +110,25 @@
       <workItem from="1624243603851" duration="3812000" />
       <workItem from="1631099379283" duration="1095000" />
       <workItem from="1631501345253" duration="3228000" />
-      <workItem from="1631504794217" duration="1652000" />
+      <workItem from="1631504794217" duration="2428000" />
+      <workItem from="1631789234993" duration="705000" />
+      <workItem from="1634035462775" duration="1894000" />
+      <workItem from="1634181298185" duration="1783000" />
+      <workItem from="1639925779994" duration="942000" />
+      <workItem from="1639963690117" duration="6000" />
+      <workItem from="1639994032705" duration="665000" />
+      <workItem from="1640069751303" duration="1563000" />
+      <workItem from="1640758899270" duration="1051000" />
+      <workItem from="1641959133798" duration="702000" />
+      <workItem from="1646195061765" duration="1446000" />
+      <workItem from="1646204515899" duration="538000" />
+      <workItem from="1650782784709" duration="413000" />
+      <workItem from="1655798400815" duration="3288000" />
+      <workItem from="1655862995691" duration="18000" />
+      <workItem from="1655863024794" duration="53000" />
+      <workItem from="1656485828745" duration="758000" />
+      <workItem from="1657702427012" duration="776000" />
+      <workItem from="1659346514136" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>
