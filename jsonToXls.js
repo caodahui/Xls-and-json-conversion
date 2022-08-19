@@ -3,6 +3,7 @@ const json2xls = require('json2xls');
 
 fs.readFile('./lib/name.json', 'utf8', (err, data) => {
     if (err) throw err;
+
     const json = JSON.parse(data);
     const jsonArray = [];
 
