@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="">
+    <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="更换git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsonToXls.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsonToXls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/name.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/name.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1sgwyzCeRsyZVDXXwqlOoet6FS9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\demo\jsonXls" />
       <recent name="E:\demo\jsonXls\lib" />
       <recent name="E:\demo\jsonXls\dist" />
       <recent name="D:\jsonXls\dist" />
@@ -46,8 +57,14 @@
       <recent name="E:\demo\jsonXls\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.xlsToJson.js">
+  <component name="RunManager" selected="Node.js.xlsToJs_web.js">
     <configuration name="jsonToXls.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsonToXls.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="xlsToJs_H5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/xlsToJs_H5.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="xlsToJs_web.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/xlsToJs_web.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="xlsToJson.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/xlsToJson.js" working-dir="$PROJECT_DIR$">
@@ -63,33 +80,13 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="jsToXls" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="jsToXls" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="jsonToXls" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="jsonToXls" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.xlsToJs_web.js" />
+        <item itemvalue="Node.js.xlsToJs_H5.js" />
         <item itemvalue="Node.js.xlsToJson.js" />
         <item itemvalue="Node.js.jsonToXls.js" />
         <item itemvalue="npm.XlstTojson" />
-        <item itemvalue="npm.jsonToXls" />
-        <item itemvalue="npm.jsToXls" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +125,7 @@
       <workItem from="1657702427012" duration="776000" />
       <workItem from="1659346514136" duration="695000" />
       <workItem from="1661132338311" duration="36000" />
-      <workItem from="1663644175260" duration="337000" />
+      <workItem from="1663644175260" duration="5306000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>
@@ -158,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663644229220</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更换git">
+      <created>1663644520182</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663644520182</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
