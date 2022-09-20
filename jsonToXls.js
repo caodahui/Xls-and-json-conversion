@@ -7,6 +7,7 @@ fs.readFile('./lib/name.json', 'utf8', (err, data) => {
     const json = JSON.parse(data);
     const jsonArray = [];
 
+    
     Object.keys(json).forEach(item => {
         const temp = {
             'module': 'xx模块',

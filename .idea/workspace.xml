@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsonToXls.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsonToXls.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1sgwyzCeRsyZVDXXwqlOoet6FS9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -127,6 +128,7 @@
       <workItem from="1657702427012" duration="776000" />
       <workItem from="1659346514136" duration="695000" />
       <workItem from="1661132338311" duration="36000" />
+      <workItem from="1663644175260" duration="337000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>
@@ -149,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660901874675</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更换git">
+      <created>1663644229220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663644229220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +168,7 @@
     <MESSAGE value="修改路径" />
     <MESSAGE value="新增11种语言" />
     <MESSAGE value="Add eleven languages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add eleven languages" />
+    <MESSAGE value="更换git" />
+    <option name="LAST_COMMIT_MESSAGE" value="更换git" />
   </component>
 </project>
