@@ -14,5 +14,8 @@
     "fs": "0.0.1-security",
     "json2xls": "^0.1.2",
     "node-xlsx": "^0.16.1"
+  },
+  "dependencies": {
+    "json-stringify-safe": "^5.0.1"
   }
 }

@@ -4,7 +4,11 @@
     <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="更换git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsonToXls.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsonToXls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/name.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/name.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/name.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/name.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xlsToJs_web.js" beforeDir="false" afterPath="$PROJECT_DIR$/xlsToJs_web.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +44,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../hotCoin/hotcoin-h5" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\demo\jsonXls" />
       <recent name="E:\demo\jsonXls\lib" />
+      <recent name="E:\demo\jsonXls" />
       <recent name="E:\demo\jsonXls\dist" />
       <recent name="D:\jsonXls\dist" />
       <recent name="D:\jsonXls" />
@@ -57,7 +61,7 @@
       <recent name="E:\demo\jsonXls\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.xlsToJs_web.js">
+  <component name="RunManager" selected="Node.js.xlsToJs_H5.js">
     <configuration name="jsonToXls.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/jsonToXls.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -82,10 +86,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.xlsToJs_web.js" />
         <item itemvalue="Node.js.xlsToJs_H5.js" />
-        <item itemvalue="Node.js.xlsToJson.js" />
+        <item itemvalue="Node.js.xlsToJs_web.js" />
         <item itemvalue="Node.js.jsonToXls.js" />
+        <item itemvalue="Node.js.xlsToJson.js" />
         <item itemvalue="npm.XlstTojson" />
       </list>
     </recent_temporary>
@@ -125,7 +129,19 @@
       <workItem from="1657702427012" duration="776000" />
       <workItem from="1659346514136" duration="695000" />
       <workItem from="1661132338311" duration="36000" />
-      <workItem from="1663644175260" duration="5306000" />
+      <workItem from="1663644175260" duration="5550000" />
+      <workItem from="1663838570332" duration="1909000" />
+      <workItem from="1664156206025" duration="19000" />
+      <workItem from="1664351492365" duration="1533000" />
+      <workItem from="1664451133203" duration="3539000" />
+      <workItem from="1666751790564" duration="1380000" />
+      <workItem from="1667202192493" duration="1367000" />
+      <workItem from="1671595060939" duration="1980000" />
+      <workItem from="1671613499687" duration="1558000" />
+      <workItem from="1678359696418" duration="41000" />
+      <workItem from="1678359784081" duration="1114000" />
+      <workItem from="1678447895222" duration="815000" />
+      <workItem from="1678689915632" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>
