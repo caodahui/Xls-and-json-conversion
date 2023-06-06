@@ -10,7 +10,7 @@ fs.readFile('./lib/name.json', 'utf8', (err, data) => {
 
     Object.keys(json).forEach(item => {
         const temp = {
-            'module': '新ieo模块',
+            'module': '第三方登录',
             'key': item,
             'zhcn': json[item],
             'enww': '',

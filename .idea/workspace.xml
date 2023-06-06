@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="更换git">
+    <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="111">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsonToXls.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsonToXls.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/name.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/name.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/name.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/name.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xlsToJs_web.js" beforeDir="false" afterPath="$PROJECT_DIR$/xlsToJs_web.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../hotCoin/hotcoin-h5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -141,7 +138,14 @@
       <workItem from="1678359696418" duration="41000" />
       <workItem from="1678359784081" duration="1114000" />
       <workItem from="1678447895222" duration="815000" />
-      <workItem from="1678689915632" duration="353000" />
+      <workItem from="1678689915632" duration="2144000" />
+      <workItem from="1682317030860" duration="276000" />
+      <workItem from="1682579082286" duration="789000" />
+      <workItem from="1682646387379" duration="1066000" />
+      <workItem from="1682659136972" duration="393000" />
+      <workItem from="1682675658614" duration="669000" />
+      <workItem from="1685610868073" duration="729000" />
+      <workItem from="1686045778307" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>
@@ -178,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663644520182</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="111">
+      <created>1678690442154</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678690442154</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +200,7 @@
     <MESSAGE value="新增11种语言" />
     <MESSAGE value="Add eleven languages" />
     <MESSAGE value="更换git" />
-    <option name="LAST_COMMIT_MESSAGE" value="更换git" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
 </project>
