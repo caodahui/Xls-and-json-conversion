@@ -10,11 +10,12 @@ fs.readFile('./lib/name.json', 'utf8', (err, data) => {
 
     Object.keys(json).forEach(item => {
         const temp = {
-            'module': '第三方登录',
+            // 'module': '帮助中心',
             'key': item,
             'zhcn': json[item],
             'enww': '',
             'kokr': '',
+            'zhhk': '',
             'Filipino': '',
             'Thai': '',
             'Spanish': '',

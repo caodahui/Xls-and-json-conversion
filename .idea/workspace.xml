@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="111">
+    <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsonToXls.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsonToXls.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/name.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/name.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/name.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/name.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/name.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xlsToJs_H5.js" beforeDir="false" afterPath="$PROJECT_DIR$/xlsToJs_H5.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +35,30 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1sgwyzCeRsyZVDXXwqlOoet6FS9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/demo/jsonXls&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\demo\jsonXls\lib" />
@@ -84,8 +97,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.xlsToJs_H5.js" />
-        <item itemvalue="Node.js.xlsToJs_web.js" />
         <item itemvalue="Node.js.jsonToXls.js" />
+        <item itemvalue="Node.js.xlsToJs_web.js" />
         <item itemvalue="Node.js.xlsToJson.js" />
         <item itemvalue="npm.XlstTojson" />
       </list>
@@ -145,7 +158,19 @@
       <workItem from="1682659136972" duration="393000" />
       <workItem from="1682675658614" duration="669000" />
       <workItem from="1685610868073" duration="729000" />
-      <workItem from="1686045778307" duration="599000" />
+      <workItem from="1686045778307" duration="1310000" />
+      <workItem from="1686651352295" duration="761000" />
+      <workItem from="1687743776802" duration="286000" />
+      <workItem from="1687744073089" duration="413000" />
+      <workItem from="1687745971234" duration="705000" />
+      <workItem from="1687833160351" duration="679000" />
+      <workItem from="1687938850038" duration="733000" />
+      <workItem from="1688023648684" duration="660000" />
+      <workItem from="1689904514740" duration="1244000" />
+      <workItem from="1690366335732" duration="1930000" />
+      <workItem from="1691836953581" duration="694000" />
+      <workItem from="1692257453842" duration="383000" />
+      <workItem from="1694588170584" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>
@@ -189,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678690442154</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="111">
+      <created>1686046404617</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686046404617</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
