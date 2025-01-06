@@ -1,0 +1,17 @@
+{
+  "download_113": "Track Market Trends.Anytime,Anywhere.",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Hide Suspend Recharge",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "The margin ratio for each position is the same as the trader's",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "Maximum follow-up below limit",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Number of follow-up orders (pieces)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Single copy order amount (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Maximum follow-up margin {{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Enter the follow-up order quantity ({{size_0}} ({{value_0}}~{{value_1}}) {{size_0}})",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Copy ratio ({{size_0}} ({{value_0}}~{{value_1}}) {{size_0}})",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Single follow-up amount ({{size_0}} ({{value_0}}~{{value_1}}) {{size_0}})",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Select leverage",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "More Settings",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Quick copy",
+  "hotcoinApp_v_1_3_121801_Optional": "( Optional )",
+  "hotcoinApp_v_1_3_121801_QuickMode": "Quick Mode"
+}

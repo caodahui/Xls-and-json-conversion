@@ -1,6 +1,7 @@
 const fs = require("fs");
 
 const xlsx = require('node-xlsx');
+const stringify = require("json-stringify-safe");
 
 /** 解析excel文档 */
 const sheets = xlsx.parse('./lib/name.xlsx');
@@ -18,7 +19,8 @@ const Vietnamese = {}
 const Turkish = {}
 const Portuguese = {}
 const FRENCH = {}
-const Arabic = {}
+const German = {}
+const Russian = {}
 
 sheet.data.forEach((item, index) => {
     if (item[1]) zhcn[item[1]] = item[2] ? item[2] : ''
@@ -33,7 +35,8 @@ sheet.data.forEach((item, index) => {
     if (item[1]) Turkish[item[1]] = item[11] ? item[11] : ''
     if (item[1]) Portuguese[item[1]] = item[12] ? item[12] : ''
     if (item[1]) FRENCH[item[1]] = item[13] ? item[13] : ''
-    // if (item[1]) Arabic[item[1]] = item[14] ? item[14] : ''
+    if (item[1]) German[item[1]] = item[14] ? item[14] : ''
+    if (item[1]) Russian[item[1]] = item[15] ? item[15] : ''
 })
 
 fs.writeFileSync('./dist/zh.js', 'let zh = ' + JSON.stringify(zhcn, null, '\t') + '\n' +'export default zh')
@@ -48,5 +51,5 @@ fs.writeFileSync('./dist/vi.js', 'let vi = ' + JSON.stringify(Vietnamese, null, 
 fs.writeFileSync('./dist/tr.js', 'let tr = ' + JSON.stringify(Turkish, null, '\t') + '\n' +'export default tr')
 fs.writeFileSync('./dist/pt.js', 'let pt = ' + JSON.stringify(Portuguese, null, '\t') + '\n' +'export default pt')
 fs.writeFileSync('./dist/fr.js', 'let fr = ' + JSON.stringify(FRENCH, null, '\t') + '\n' +'export default fr')
-// fs.writeFileSync('./dist/Arabic.json', 'let json = ' + JSON.stringify(Arabic, null, '\t') + '\n' +'export default json')
-
+fs.writeFileSync('./dist/ge.js', 'let json = ' + stringify(German, null, '\t') + '\n' + 'export default json')
+fs.writeFileSync('./dist/ru.js', 'let json = ' + stringify(Russian, null, '\t') + '\n' + 'export default json')

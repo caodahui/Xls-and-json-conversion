@@ -1,0 +1,17 @@
+{
+  "download_113": "Behalten Sie jederzeit und überall den Überblick über den Markt",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Unterbrochenes Aufladen ausblenden",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "Das Marginverhältnis für jede Position ist das gleiche wie beim Trader",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "max. folgt unterhalb des Grenzwerts",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Bestellmenge (Stück)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Einzelbestellbetrag (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Maximaler folgender Spielraum{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Bitte geben Sie die Bestellmenge ein: {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Kopierverhältnis {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Einzelbestellmenge {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Wählen Sie Hebelwirkung",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "Mehr Einst.",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Befolgen Sie zügig Befehle",
+  "hotcoinApp_v_1_3_121801_Optional": "(optional)",
+  "hotcoinApp_v_1_3_121801_QuickMode": "Express-Modus"
+}

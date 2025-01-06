@@ -1,0 +1,17 @@
+{
+  "download_113": "いつでもどこでも市場のトップを維持",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "一時停止されたリチャージを非表示にする",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "各オープンポジションの証拠金比率は、トレーダーの証拠金比率と同じです",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "制限を下回る最大値",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "ご注文数量（個）",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "1 回の注文金額 (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "最大フォローマージン{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "注文数量を入力してください {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "コピー率 {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "1 回の注文金額 {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "レバレッジを選択する",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "詳細設定",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "クイックコピー",
+  "hotcoinApp_v_1_3_121801_Optional": " オプション ",
+  "hotcoinApp_v_1_3_121801_QuickMode": "エクスプレスモード"
+}

@@ -1,0 +1,17 @@
+{
+  "download_113": "Manténgase al tanto del mercado en cualquier momento y en cualquier lugar",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Ocultar recarga suspendida",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "La relación de margen de cada posición de apertura es la misma que la del comerciante",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "seguimiento máximo por debajo del límite",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Cantidad de pedido (piezas)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Monto de pedido único (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Margen de seguimiento máximo{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Ingrese la cantidad del pedido {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Proporción de copia {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Importe de pedido único {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Elija apalancamiento",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "Más Ajustes",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Seguir órdenes rápidamente",
+  "hotcoinApp_v_1_3_121801_Optional": "( Opcional )",
+  "hotcoinApp_v_1_3_121801_QuickMode": "modo expreso"
+}

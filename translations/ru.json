@@ -1,0 +1,17 @@
+{
+  "download_113": "Отслеживайте тенденции рынка. В любое время и в любом месте.",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Скрыть приостановленное пополнение счета",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "Доля маржи, инвестируемой для каждого открытия позиции, такая же, как и у трейдера.",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "максимальное количество ниже предела",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Количество заказа (шт.)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Сумма одного заказа (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Максимальное следующее поле{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Введите количество заказа {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Коэффициент копирования {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Сумма одного заказа {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Выберите кредитное плечо",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "Ещё Настройки",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Быстро выполнять заказы",
+  "hotcoinApp_v_1_3_121801_Optional": "необязательный)",
+  "hotcoinApp_v_1_3_121801_QuickMode": "Экспресс-режим"
+}

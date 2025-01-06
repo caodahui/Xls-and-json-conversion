@@ -1,0 +1,17 @@
+{
+  "download_113": "Manatili sa tuktok ng merkado anumang oras, kahit saan",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Itago ang nasuspindeng recharge",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "Ang ratio ng margin ng bawat posisyon sa pagbubukas ay kapareho ng sa negosyante",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "max na sumusunod sa ibaba ng limitasyon",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Dami ng order (mga piraso)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Isang halaga ng order (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Maximum na sumusunod na margin{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Pakilagay ang dami ng order {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Kinokopya ang ratio {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Iisang halaga ng order {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Pumili ng leverage",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "More Settings",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Mabilis na sundin ang mga utos",
+  "hotcoinApp_v_1_3_121801_Optional": "(opsyonal)",
+  "hotcoinApp_v_1_3_121801_QuickMode": "Express mode"
+}

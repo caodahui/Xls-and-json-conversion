@@ -1,0 +1,17 @@
+{
+  "download_113": "Luôn dẫn đầu thị trường mọi lúc, mọi nơi",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Ẩn việc nạp tiền bị đình chỉ",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "Tỷ lệ ký quỹ cho mỗi vị thế giống với của nhà giao dịch",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "tối đa sau giới hạn dưới đây",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Số lượng đặt hàng (miếng)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Số tiền đặt hàng duy nhất (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Biên độ tối đa sau đây{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Vui lòng nhập số lượng đặt hàng {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Tỷ lệ sao chép {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Số lượng đơn đặt hàng {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Chọn đòn bẩy",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "Cài Đặt Thêm",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Nhanh chóng làm theo mệnh lệnh",
+  "hotcoinApp_v_1_3_121801_Optional": " Tùy chọn )",
+  "hotcoinApp_v_1_3_121801_QuickMode": "Chế độ nhanh"
+}

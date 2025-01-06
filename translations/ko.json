@@ -1,0 +1,17 @@
+{
+  "download_113": "언제 어디서나 시세 파악하기",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "일시중지된 충전 숨기기",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "각 포지션 개시에 투자된 마진 비율은 거래자의 비율과 동일합니다.",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "최대 팔로잉 제한 미만",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "주문 수량(개)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "단일 주문 금액(USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "최대 추종 여백{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "주문 수량을 입력하세요. {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "복사 비율 {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "단일 주문 금액 {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "레버리지를 선택하세요",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "추가 설정",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "신속하게 명령을 따르십시오.",
+  "hotcoinApp_v_1_3_121801_Optional": "(선택 과목)",
+  "hotcoinApp_v_1_3_121801_QuickMode": "익스프레스 모드"
+}

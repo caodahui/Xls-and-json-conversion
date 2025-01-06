@@ -1,0 +1,17 @@
+{
+  "download_113": "Restez au top du marché à tout moment et en tout lieu",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Masquer la recharge suspendue",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "Le ratio de marge de chaque position d'ouverture est le même que celui du trader",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "max suivant la limite inférieure",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Quantité commandée (pièces)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Montant de la commande unique (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Marge de suivi maximale{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Veuillez saisir la quantité commandée {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Taux de copie {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Montant de la commande unique {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Choisissez l'effet de levier",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "Plus Options",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Suivez rapidement les commandes",
+  "hotcoinApp_v_1_3_121801_Optional": " Facultatif )",
+  "hotcoinApp_v_1_3_121801_QuickMode": "Mode express"
+}

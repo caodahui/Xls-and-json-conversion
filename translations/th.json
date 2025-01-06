@@ -1,0 +1,17 @@
+{
+  "download_113": "อยู่เหนือตลาดทุกที่ทุกเวลา",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "ซ่อนการเติมเงินที่ถูกระงับ",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "อัตราส่วนมาร์จิ้นของแต่ละตำแหน่งที่เปิดจะเหมือนกับของเทรดเดอร์",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "สูงสุดตามขีดจำกัดด้านล่าง",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "ปริมาณการสั่งซื้อ (ชิ้น)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "จำนวนคำสั่งซื้อเดี่ยว (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "อัตรากำไรขั้นต้นต่อไปนี้สูงสุด{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "โปรดป้อนปริมาณการสั่งซื้อ {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "อัตราส่วนการคัดลอก {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "จำนวนการสั่งซื้อครั้งเดียว {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "เลือกเลเวอเรจ",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "ตั้งค่าเพิ่มเติม",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "ทำตามคำสั่งอย่างรวดเร็ว",
+  "hotcoinApp_v_1_3_121801_Optional": "ไม่บังคับ)",
+  "hotcoinApp_v_1_3_121801_QuickMode": "โหมดด่วน"
+}

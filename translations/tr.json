@@ -1,0 +1,17 @@
+{
+  "download_113": "Her zaman, her yerde piyasanın zirvesinde kalın",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Askıya alınan şarjı gizle",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "Her açılış pozisyonunun marj oranı, tüccarınkiyle aynıdır.",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "maksimum limitin altında takip",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "Sipariş miktarı (adet)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "Tek sipariş tutarı (USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "Maksimum takip marjı{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "Lütfen sipariş miktarını girin: {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "Kopyalama oranı {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "Tek sipariş tutarı {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "Kaldıraç seçin",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "Diğer Ayarlar",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "Siparişleri hızla takip edin",
+  "hotcoinApp_v_1_3_121801_Optional": " İsteğe bağlı )",
+  "hotcoinApp_v_1_3_121801_QuickMode": "Ekspres mod"
+}

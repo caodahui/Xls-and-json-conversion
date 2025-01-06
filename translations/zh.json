@@ -1,0 +1,17 @@
+{
+  "download_113": "随时随地掌握行情",
+  "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "隐藏暂停充值",
+  "hotcoinApp_v_1_3_121801_TheMarginRatioFor": "每次开仓投入的保证金比例和交易员的相同",
+  "hotcoinApp_v_1_3_121801_MaximumFollowBelowLimit": "最大跟随低于限制",
+  "hotcoinApp_v_1_3_121801_NumberOfFollowupOrders": "跟单数量(张)",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount_1": "单笔跟单金额(USDT)",
+  "hotcoinApp_v_1_3_121801_MaximumFollowupMarginSize0value0value1size0": "最大跟随保证金{{size_0}}({{value_0}}-{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheOrder": "请输入跟单数量 {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_PleaseEnterTheCopy": "跟单比例 {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SingleCopyOrderAmount": "单笔跟单金额 {{size_0}}({{value_0}}~{{value_1}}){{size_0}}",
+  "hotcoinApp_v_1_3_121801_SelectLeverage": "选择杠杆倍数",
+  "hotcoinApp_v_1_3_121801_MoreSettings": "更多设置",
+  "hotcoinApp_v_1_3_121801_QuickCopy": "快捷跟单",
+  "hotcoinApp_v_1_3_121801_Optional": "（选填）",
+  "hotcoinApp_v_1_3_121801_QuickMode": "快捷模式"
+}
