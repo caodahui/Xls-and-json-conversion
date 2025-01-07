@@ -1,0 +1,99 @@
+{
+  "hostname": "lingotrans.hotcx.com",
+  "port": 443,
+  "fileConfig": {
+    "startTag": "// lingo-start",
+    "endTag": "// lingo-end",
+    "template": "  \"{{key}}\": \"{{value}}\","
+  },
+  "resources": [
+    {
+      "pathname": "/api/translation-get-by-page-category-id?pageCategoryId=3",
+      "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiYXBpIiwicGF0aG5hbWUiOiIvYXBpL3RyYW5zbGF0aW9uLWdldC1ieS1wYWdlLWNhdGVnb3J5LWlkIiwicXVlcnkiOnsicGFnZUNhdGVnb3J5SWQiOjN9LCJ1c2VySWQiOjEsImlhdCI6MTcyMDkyMTg4OX0.2-CpPHqDOxljOPt15G6cQ9d9kBxKIPPptllj4m56aC8",
+      "dataPath": "data.records"
+    },
+    {
+      "pathname": "/api/tasks/76",
+      "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiYXBpIiwicGF0aG5hbWUiOiIvYXBpL3Rhc2tzLzc2IiwicXVlcnkiOiJ7fSIsInVzZXJJZCI6NTEsImlhdCI6MTcyNDg2NTc3N30.Xmg6-453IBnfvDfvWMmN37bkqo0LYmWryzfATsGE6PM",
+      "dataPath": "data.translations"
+    }
+  ],
+  "languageFiles": [
+    {
+      "code": "zh_CN",
+      "path": "locales/zh.js"
+    },
+    {
+      "code": "en_US",
+      "path": "locales/en.js"
+    },
+    {
+      "code": "ko_KR",
+      "path": "locales/ko.js"
+    },
+    {
+      "code": "es_ES",
+      "path": "locales/es.js"
+    },
+    {
+      "code": "fil_PH",
+      "path": "locales/fil.js"
+    },
+    {
+      "code": "fr_FR",
+      "path": "locales/fr.js"
+    },
+    {
+      "code": "ja_JP",
+      "path": "locales/ja.js"
+    },
+    {
+      "code": "pt_PT",
+      "path": "locales/pt.js"
+    },
+    {
+      "code": "th_TH",
+      "path": "locales/th.js"
+    },
+    {
+      "code": "tr_TR",
+      "path": "locales/tr.js"
+    },
+    {
+      "code": "vi_VN",
+      "path": "locales/vi.js"
+    },
+    {
+      "code": "zh_HK",
+      "path": "locales/hk.js"
+    },
+    {
+      "code": "de_DE",
+      "path": "locales/de.js"
+    },
+    {
+      "code": "ru_RU",
+      "path": "locales/ru.js"
+    },
+    {
+      "code": "longest",
+      "path": "locales/longest.js"
+    }
+  ],
+  "valueReplaces": [
+    {
+      "from": "\"",
+      "to": "\\\""
+    },
+    {
+      "from": "\n",
+      "to": "\\\n"
+    }
+  ],
+  "keyReplaces": [
+    {
+      "from": "other_v1_2_3_",
+      "to": ""
+    }
+  ]
+}

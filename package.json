@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "jsonToXls": "node jsonToXls.js",
-    "XlstTojson": "node xlsToJson.js"
+    "XlstTojson": "node xlsToJson.js",
+    "sync_i18n_h5": "lingo"
   },
   "author": "caozhihui <xiaohuihuide@qmail.com>",
   "license": "ISC",
@@ -16,6 +17,7 @@
     "node-xlsx": "^0.16.1"
   },
   "dependencies": {
-    "json-stringify-safe": "^5.0.1"
+    "json-stringify-safe": "^5.0.1",
+    "lingo-cli": "^2.6.0"
   }
 }
