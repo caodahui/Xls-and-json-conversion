@@ -40,7 +40,7 @@ const createTranslationFiles = async (keys) => {
   // 处理每个文件
   for (const file of files) {
     if (file === 'vueI18n.js') { // 确保忽略处理 vueI18n.js 文件
-      console.log(`跳过文件: ${file}`);
+      // console.log(`跳过文件: ${file}`);
       continue; // 跳过此文件
     }
 

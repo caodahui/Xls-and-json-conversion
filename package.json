@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "jsonToXls": "node jsonToXls.js",
     "XlstTojson": "node xlsToJson.js",
-    "sync_i18n_h5": "lingo"
+    "sync_i18n_h5": "lingo",
+    "lite_locals": "npm run sync_i18n_h5 && node getLiteLocals.js"
   },
   "author": "caozhihui <xiaohuihuide@qmail.com>",
   "license": "ISC",
