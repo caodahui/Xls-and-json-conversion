@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// 检查是否在范围内的功能
+// 检查 key 是否在范围内的功能
 const isInRange = (key, startKey, endKey) => {
   return key >= startKey && key <= endKey;
 };
@@ -34,12 +34,16 @@ const createTranslationFiles = async (keys) => {
   // 读取 localesDir 下的 JavaScript 文件
   const files = fs.readdirSync(localesDir).filter(file =>
       file.endsWith('.js') &&
-      file !== 'vuei18n.js' && // 如果有这些文件，过滤掉
-      file !== 'longest.js'
+      file !== 'longest.js' // 过滤掉不需要处理的文件
   );
 
   // 处理每个文件
   for (const file of files) {
+    if (file === 'vueI18n.js') { // 确保忽略处理 vueI18n.js 文件
+      console.log(`跳过文件: ${file}`);
+      continue; // 跳过此文件
+    }
+
     const filePath = path.join(localesDir, file);
     const variableName = path.basename(file, '.js'); // 获取不带扩展名的文件名
 
@@ -57,17 +61,26 @@ const createTranslationFiles = async (keys) => {
           newContent[key] = fileContent[key];
         } else if (Array.isArray(key) && key.length === 2) {
           const [startKey, endKey] = key;
-          Object.keys(fileContent).forEach(k => {
-            if (isInRange(k, startKey, endKey)) {
+
+          const keysInRange = Object.keys(fileContent);
+          const startIndex = keysInRange.indexOf(startKey);
+          const endIndex = keysInRange.indexOf(endKey);
+
+          // 如果开始和结束键都找到，则复制范围内的键
+          if (startIndex !== -1 && endIndex !== -1 && startIndex <= endIndex) {
+            // 获取从 startKey 到 endKey 的所有键，包括 startKey 后的第一个的文案
+            const requiredKeys = keysInRange.slice(startIndex, endIndex + 1);
+            requiredKeys.forEach(k => {
               newContent[k] = fileContent[k];
-            }
-          });
+            });
+          }
         }
       });
 
       // 写入新文件到根目录的 translations 目录中，且只写入对象内容
       const newFilePath = path.join(newDir, `${variableName}.json`); // 以 JSON 格式保存
       fs.writeFileSync(newFilePath, JSON.stringify(newContent, null, 2), 'utf8');
+      console.log(`已处理文件: ${newFilePath}`);
     } catch (error) {
       console.error(`处理文件 ${file} 时出错: ${error.message}`);
     }
@@ -78,6 +91,8 @@ const createTranslationFiles = async (keys) => {
 
 // 用法示例
 createTranslationFiles([
-  'download_113',
-  ['hotcoinApp_v_1_3_121801_HideSuspendRecharge', 'hotcoinApp_v_1_3_121801_TheMarginRatioFor']
+  'hotcoinApp_v1_22_23_GoToRecharge',
+  'account_288',
+  ['hotcoinApp_v1_22_29_AlreadyClaimed', 'hotcoinApp_v1_22_29_UnableToParticipate'],
+  ['hotcoinApp_v1_22_29_RegistrationAfterTheUser', 'hotcoinApp_v1_22_29_DearUsers']
 ]);

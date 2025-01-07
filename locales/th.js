@@ -1,5 +1,8 @@
 let th = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "อ้างสิทธิ์แล้ว",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "คุณไม่มีสิทธิ์เข้าร่วมกิจกรรม",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "ไม่สามารถเข้าร่วมได้",
   "hotcoinApp_v1_2222223_AddUpTo10": "เพิ่มรหัสผ่านได้สูงสุด 10 รหัส",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "อุปกรณ์ปัจจุบันมีรหัสผ่านอยู่แล้ว",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "ซ่อนการเติมเงินที่ถูกระงับ",
@@ -167,7 +170,7 @@ let th = {
   "hotcoinApp_v1_3_11218_RiskControl": "การควบคุมลม",
   "hotcoinApp_v1_3_11218_Expired": "หมด อายุ",
   "hotcoinApp_v1_3_11218_UsageDetails": "รายละเอียดการใช้งาน",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "การยืนยันการคัดลอกอย่างรวดเร็วถือเป็นข้อตกลงกับ {{color_0}}{{link_0}} \"ข้อตกลงทางการค้า\" {{link_0}}{{color_0}} และ {{color_2}}{{link_2}} \"กฎความเสี่ยง\" { { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "การยืนยันการคัดลอกอย่างรวดเร็วถือเป็นข้อตกลงกับ {{color_0}}{{link_0}} \"ข้อตกลงทางการค้า\" {{link_0}}{{color_0}} และ {{color_2}}{{link_2}} \"กฎความเสี่ยง\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "จำนวนคงที่",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "โหมดคัดลอก",
   "hotcoinApp_v_1_3_121801_MoreSettings": "ตั้งค่าเพิ่มเติม",
@@ -176,7 +179,7 @@ let th = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "ส่วนแบ่งกำไรสูง",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "เป็นผู้นำเทรดฟิวเจอร์ส",
   "hotcoinApp_v_1_3_121801_Available": "ประโยชน์:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "การยืนยันการคัดลอกถือเป็นข้อตกลงกับ {{color_0}}{{link_0}} \"ข้อตกลงทางการค้า\" {{link_0}}{{color_0}} และ {{color_2}}{{link_2}} \"กฎความเสี่ยง\" { {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "การยืนยันการคัดลอกถือเป็นข้อตกลงกับ {{color_0}}{{link_0}} \"ข้อตกลงทางการค้า\" {{link_0}}{{color_0}} และ {{color_2}}{{link_2}} \"กฎความเสี่ยง\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "ไม่บังคับ)",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "โหมดขั้นสูง",
   "hotcoinApp_v_1_3_121801_QuickMode": "โหมดด่วน",

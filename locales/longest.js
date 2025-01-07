@@ -1,5 +1,8 @@
 let es = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Zaten hak talebinde bulunuldu",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Sie sind nicht berechtigt, an der Veranstaltung teilzunehmen",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Tidak dapat mengambil bahagian",
   "hotcoinApp_v1_2222223_AddUpTo10": "Fügen Sie bis zu 10 Passschlüssel hinzu",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "Il dispositivo corrente dispone già di una chiave di accesso",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Скрыть приостановленное пополнение счета",
@@ -167,7 +170,7 @@ let es = {
   "hotcoinApp_v1_3_11218_RiskControl": "Controllo del vento",
   "hotcoinApp_v1_3_11218_Expired": "منتهي الصلاحية",
   "hotcoinApp_v1_3_11218_UsageDetails": "Подробности использования",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "La confirmation de la copie rapide est considérée comme un accord avec {{color_0}}{{link_0}} \"Accord commercial\" {{link_0}}{{color_0}} et {{color_2}}{{link_2}} \"Règles de risque\" { { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "La confirmation de la copie rapide est considérée comme un accord avec {{color_0}}{{link_0}} \"Accord commercial\" {{link_0}}{{color_0}} et {{color_2}}{{link_2}} \"Règles de risque\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "фиксированная сумма",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Метод последующего наблюдения",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Дополнительные настройки",
@@ -176,7 +179,7 @@ let es = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Commission Leader Élevée",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Conviértase en un comerciante por contrato",
   "hotcoinApp_v_1_3_121801_Available": "Apalancamientor:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "A confirmação da cópia é considerada uma concordância com o {{color_0}}{{link_0}} \"Acordo Comercialista\" {{link_0}}{{color_0}} e com as {{color_2}}{{link_2}} \"Regras de Risco\" { {link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "A confirmação da cópia é considerada uma concordância com o {{color_0}}{{link_0}} \"Acordo Comercialista\" {{link_0}}{{color_0}} e com as {{color_2}}{{link_2}} \"Regras de Risco\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": " İsteğe bağlı )",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Расширенный режим",
   "hotcoinApp_v_1_3_121801_QuickMode": "Modalità espressa",

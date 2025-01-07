@@ -1,5 +1,8 @@
 let pt = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Já reivindicado",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Você não está qualificado para participar do evento",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Não é possível participar",
   "hotcoinApp_v1_2222223_AddUpTo10": "Adicione até 10 chaves de acesso",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "O dispositivo atual já possui uma chave de acesso",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Ocultar recarga suspensa",
@@ -167,7 +170,7 @@ let pt = {
   "hotcoinApp_v1_3_11218_RiskControl": "Controle do vento",
   "hotcoinApp_v1_3_11218_Expired": "Expirado",
   "hotcoinApp_v1_3_11218_UsageDetails": "Detalhes de uso",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "A confirmação da cópia rápida é considerada uma concordância com {{color_0}}{{link_0}} \"Acordo Comercialista\" {{link_0}}{{color_0}} e {{color_2}}{{link_2}} \"Regras de Risco\" { {link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "A confirmação da cópia rápida é considerada uma concordância com {{color_0}}{{link_0}} \"Acordo Comercialista\" {{link_0}}{{color_0}} e {{color_2}}{{link_2}} \"Regras de Risco\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Valor Fixo",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Modo Copy",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Mais Config",
@@ -176,7 +179,7 @@ let pt = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Alta Comissão Líder",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Ser Líder Futuros",
   "hotcoinApp_v_1_3_121801_Available": "Avail:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "A confirmação da cópia é considerada uma concordância com o {{color_0}}{{link_0}} \"Acordo Comercialista\" {{link_0}}{{color_0}} e com as {{color_2}}{{link_2}} \"Regras de Risco\" { {link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "A confirmação da cópia é considerada uma concordância com o {{color_0}}{{link_0}} \"Acordo Comercialista\" {{link_0}}{{color_0}} e com as {{color_2}}{{link_2}} \"Regras de Risco\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": " Opcional)",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Modo avançado",
   "hotcoinApp_v_1_3_121801_QuickMode": "Modo expresso",

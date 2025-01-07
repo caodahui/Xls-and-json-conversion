@@ -1,5 +1,8 @@
 let tr = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Zaten hak talebinde bulunuldu",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Etkinliğe katılmaya uygun değilsiniz",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Katılım sağlanamıyor",
   "hotcoinApp_v1_2222223_AddUpTo10": "10'a kadar geçiş anahtarı ekleyin",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "Mevcut cihazın zaten bir geçiş anahtarı var",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Askıya alınan şarjı gizle",
@@ -167,7 +170,7 @@ let tr = {
   "hotcoinApp_v1_3_11218_RiskControl": "Rüzgar kontrolü",
   "hotcoinApp_v1_3_11218_Expired": "Süresi dolmuş",
   "hotcoinApp_v1_3_11218_UsageDetails": "Kullanım ayrıntıları",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Hızlı kopyalamanın onaylanması, {{color_0}}{{link_0}} \"Ticari Anlaşma\" {{link_0}}{{color_0}} ve {{color_2}}{{link_2}} \"Risk Kuralları\" { ile anlaşmanın olduğu kabul edilir { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Hızlı kopyalamanın onaylanması, {{color_0}}{{link_0}} \"Ticari Anlaşma\" {{link_0}}{{color_0}} ve {{color_2}}{{link_2}} \"Risk Kuralları\" { ile anlaşmanın olduğu kabul edilir {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Sabit Tutar",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Kopyalama Modu",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Diğer Ayarlar",
@@ -176,7 +179,7 @@ let tr = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Yüksek Lider Komisyonu",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Vadeli Lider Ol",
   "hotcoinApp_v_1_3_121801_Available": "Yaramak:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Kopyalamanın onaylanması, {{color_0}}{{link_0}} \"Ticari Anlaşma\" {{link_0}}{{color_0}} ve {{color_2}}{{link_2}} \"Risk Kuralları\" { ile anlaşmanın olduğu kabul edilir {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Kopyalamanın onaylanması, {{color_0}}{{link_0}} \"Ticari Anlaşma\" {{link_0}}{{color_0}} ve {{color_2}}{{link_2}} \"Risk Kuralları\" { ile anlaşmanın olduğu kabul edilir {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": " İsteğe bağlı )",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Gelişmiş mod",
   "hotcoinApp_v_1_3_121801_QuickMode": "Ekspres mod",

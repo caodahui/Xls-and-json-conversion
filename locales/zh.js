@@ -1,5 +1,8 @@
 let zh = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "已申领",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "您不符合活动参与条件",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "无法参与",
   "hotcoinApp_v1_2222223_AddUpTo10": "最多添加10条通行密钥",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "当前设备已有通行密钥",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "隐藏暂停充值",

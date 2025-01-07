@@ -1,5 +1,8 @@
 let en = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Already claimed",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "You do not meet the event entry requirements",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Unable to participate",
   "hotcoinApp_v1_2222223_AddUpTo10": "Add up to 10 passkeys",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "The current device already has a passkey",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Hide Suspend Recharge",
@@ -167,7 +170,7 @@ let en = {
   "hotcoinApp_v1_3_11218_RiskControl": "Wind control",
   "hotcoinApp_v1_3_11218_Expired": "Expired",
   "hotcoinApp_v1_3_11218_UsageDetails": "Usage Details",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Confirm Quick Follow means agreeing to the Follower Agreement {{link_0}}{{color_0}} and Risk Rules {{link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Confirming Quick Follow means agreeing to the {{color_0}}{{link_0}} Follower Agreement {{link_0}}{{color_0}} and the {{color_2}}{{link_2}} Risk Rules {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Fixed Amount",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Copy Mode",
   "hotcoinApp_v_1_3_121801_MoreSettings": "More Settings",
@@ -176,7 +179,7 @@ let en = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "High Lead Profit Share",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Become Futures Leader",
   "hotcoinApp_v_1_3_121801_Available": "Avail:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Confirming copy trading means agreeing to the {{color_0}}{{link_0}} Follower Agreement and the {{color_2}}{{link_2}} Risk Rules",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Confirming copy trading means agreeing to the {{color_0}}{{link_0}} Follower Agreement {{link_0}}{{color_0}} and the {{color_2}}{{link_2}} Risk Rules {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "( Optional )",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Advanced Mode",
   "hotcoinApp_v_1_3_121801_QuickMode": "Quick Mode",

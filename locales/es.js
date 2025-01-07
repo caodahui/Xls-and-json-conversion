@@ -1,5 +1,8 @@
 let es = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Ya reclamado",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "No eres elegible para participar en el evento.",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "No puedo participar",
   "hotcoinApp_v1_2222223_AddUpTo10": "Agregue hasta 10 claves de acceso",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "El dispositivo actual ya tiene una clave de acceso",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Ocultar recarga suspendida",
@@ -167,7 +170,7 @@ let es = {
   "hotcoinApp_v1_3_11218_RiskControl": "control del viento",
   "hotcoinApp_v1_3_11218_Expired": "Caducado",
   "hotcoinApp_v1_3_11218_UsageDetails": "Detalles de uso",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "La confirmación de la copia rápida se considera un acuerdo con {{color_0}}{{link_0}} \"Acuerdo Comercial\" {{link_0}}{{color_0}} y {{color_2}}{{link_2}} \"Reglas de Riesgo\" { {enlace_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "La confirmación de la copia rápida se considera un acuerdo con {{color_0}}{{link_0}} \"Acuerdo Comercial\" {{link_0}}{{color_0}} y {{color_2}}{{link_2}} \"Reglas de Riesgo\" {{enlace_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Monto Fijo",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Modo Copy",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Más Ajustes",
@@ -176,7 +179,7 @@ let es = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Alto Reparto Beneficios",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Ser Líder Futuros",
   "hotcoinApp_v_1_3_121801_Available": "Apalancamientor:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "La confirmación de la copia se considera un acuerdo con el {{color_0}}{{link_0}} \"Acuerdo Comercial\" {{link_0}}{{color_0}} y {{color_2}}{{link_2}} \"Reglas de Riesgo\" { {enlace_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "La confirmación de la copia se considera un acuerdo con el {{color_0}}{{link_0}} \"Acuerdo Comercial\" {{link_0}}{{color_0}} y {{color_2}}{{link_2}} \"Reglas de Riesgo\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "( Opcional )",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Modo avanzado",
   "hotcoinApp_v_1_3_121801_QuickMode": "modo expreso",

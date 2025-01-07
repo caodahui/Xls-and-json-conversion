@@ -1,5 +1,8 @@
 let ko = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "이미 소유권이 주장됨",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "귀하는 이벤트에 참여할 수 없습니다.",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "참여할 수 없습니다",
   "hotcoinApp_v1_2222223_AddUpTo10": "최대 10개의 패스 키를 추가하세요.",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "현재 장치에 이미 패스 키가 있습니다.",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "일시중지된 충전 숨기기",
@@ -167,7 +170,7 @@ let ko = {
   "hotcoinApp_v1_3_11218_RiskControl": "바람 조절",
   "hotcoinApp_v1_3_11218_Expired": "만료",
   "hotcoinApp_v1_3_11218_UsageDetails": "이용내역",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "빠른 복사 확인은 {{color_0}}{{link_0}} \"상업주의 계약\" {{link_0}}{{color_0}} 및 {{color_2}}{{link_2}} \"위험 규칙\"에 동의하는 것으로 간주됩니다. { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "빠른 복사 확인은 {{color_0}}{{link_0}} \"상업주의 계약\" {{link_0}}{{color_0}} 및 {{color_2}}{{link_2}} \"위험 규칙\"에 동의하는 것으로 간주됩니다. {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "고정 금액",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "카피 모드",
   "hotcoinApp_v_1_3_121801_MoreSettings": "추가 설정",
@@ -176,7 +179,7 @@ let ko = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "높은 리더 수익 공유",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "선물 리더 트레이더 되기",
   "hotcoinApp_v_1_3_121801_Available": "사용가능:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "복사 확인은 {{color_0}}{{link_0}} \"상업주의 계약\" {{link_0}}{{color_0}} 및 {{color_2}}{{link_2}} \"위험 규칙\"에 동의하는 것으로 간주됩니다. {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "복사 확인은 {{color_0}}{{link_0}} \"상업주의 계약\" {{link_0}}{{color_0}} 및 {{color_2}}{{link_2}} \"위험 규칙\"에 동의하는 것으로 간주됩니다.  {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "(선택 과목)",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "고급 모드",
   "hotcoinApp_v_1_3_121801_QuickMode": "익스프레스 모드",

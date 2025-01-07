@@ -1,5 +1,8 @@
 let ja = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "すでに主張済み",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "あなたにはイベントに参加する資格がありません",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "参加できません",
   "hotcoinApp_v1_2222223_AddUpTo10": "最大 10 個のパスキーを追加します",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "現在のデバイスはすでにパスキーを持っています",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "一時停止されたリチャージを非表示にする",
@@ -167,7 +170,7 @@ let ja = {
   "hotcoinApp_v1_3_11218_RiskControl": "風制御",
   "hotcoinApp_v1_3_11218_Expired": "期限 切れ",
   "hotcoinApp_v1_3_11218_UsageDetails": "利用明細",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "クイック コピーの確認は、{{color_0}}{{link_0}}「商業主義者契約」{{link_0}}{{color_0}} および {{color_2}}{{link_2}}「リスク ルール」{ { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "クイック コピーの確認は、{{color_0}}{{link_0}}「商業主義者契約」{{link_0}}{{color_0}} および {{color_2}}{{link_2}}「リスク ルール」{{ link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "固定額",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "コピーモード",
   "hotcoinApp_v_1_3_121801_MoreSettings": "詳細設定",
@@ -176,7 +179,7 @@ let ja = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "高額リーダー報酬",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "先物リーダーになる",
   "hotcoinApp_v_1_3_121801_Available": "利用可能：",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "コピーの確認は、{{color_0}}{{link_0}}「商業主義者契約」{{link_0}}{{color_0}}および{{color_2}}{{link_2}}「リスク規定」{ {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "コピーの確認は、{{color_0}}{{link_0}}「商業主義者契約」{{link_0}}{{color_0}}および{{color_2}}{{link_2}}「リスク規定」{{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": " オプション ",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "アドバンスモード",
   "hotcoinApp_v_1_3_121801_QuickMode": "エクスプレスモード",

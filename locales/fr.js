@@ -1,5 +1,8 @@
 let fr = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Déjà réclamé",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Vous n'êtes pas éligible pour participer à l'événement",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Impossible de participer",
   "hotcoinApp_v1_2222223_AddUpTo10": "Ajoutez jusqu'à 10 clés d'accès",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "L'appareil actuel dispose déjà d'un mot de passe",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Masquer la recharge suspendue",
@@ -167,7 +170,7 @@ let fr = {
   "hotcoinApp_v1_3_11218_RiskControl": "Contrôle du vent",
   "hotcoinApp_v1_3_11218_Expired": "Périmé",
   "hotcoinApp_v1_3_11218_UsageDetails": "Détails d'utilisation",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "La confirmation de la copie rapide est considérée comme un accord avec {{color_0}}{{link_0}} \"Accord commercial\" {{link_0}}{{color_0}} et {{color_2}}{{link_2}} \"Règles de risque\" { { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "La confirmation de la copie rapide est considérée comme un accord avec {{color_0}}{{link_0}} \"Accord commercial\" {{link_0}}{{color_0}} et {{color_2}}{{link_2}} \"Règles de risque\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Montant Fixe",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Mode Copy",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Plus Options",
@@ -176,7 +179,7 @@ let fr = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Commission Leader Élevée",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Devenir Leader Futures",
   "hotcoinApp_v_1_3_121801_Available": "Profiter:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "La confirmation de copie est considérée comme un accord avec l'{{color_0}}{{link_0}} \"Accord commercial\" {{link_0}}{{color_0}} et les {{color_2}}{{link_2}} \"Règles de risque\" { {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "La confirmation de copie est considérée comme un accord avec l'{{color_0}}{{link_0}} \"Accord commercial\" {{link_0}}{{color_0}} et les {{color_2}}{{link_2}} \"Règles de risque\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": " Facultatif )",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Mode avancé",
   "hotcoinApp_v_1_3_121801_QuickMode": "Mode express",

@@ -1,5 +1,8 @@
 let ru = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Уже заявлено",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Вы не имеете права участвовать в мероприятии",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Невозможно принять участие",
   "hotcoinApp_v1_2222223_AddUpTo10": "Добавьте до 10 ключей доступа",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "У текущего устройства уже есть ключ доступа.",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Скрыть приостановленное пополнение счета",
@@ -167,7 +170,7 @@ let ru = {
   "hotcoinApp_v1_3_11218_RiskControl": "Контроль ветра",
   "hotcoinApp_v1_3_11218_Expired": "Истёк",
   "hotcoinApp_v1_3_11218_UsageDetails": "Подробности использования",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Подтверждением быстрого копирования считается согласие с {{color_0}}{{link_0}} \"Коммерческим соглашением\" {{link_0}}{{color_0}} и {{color_2}}{{link_2}} \"Правилами рисков\" { { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Подтверждением быстрого копирования считается согласие с {{color_0}}{{link_0}} \"Коммерческим соглашением\" {{link_0}}{{color_0}} и {{color_2}}{{link_2}} \"Правилами рисков\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Фикс. Сумма",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Режим Копи",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Ещё Настройки",
@@ -176,7 +179,7 @@ let ru = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Высокая Доля Лидера",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Стать Лидером Фьючерс",
   "hotcoinApp_v_1_3_121801_Available": "Доступно:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Подтверждение копирования считается согласием с {{color_0}}{{link_0}} «Коммерческим соглашением» {{link_0}}{{color_0}} и {{color_2}}{{link_2}} «Правилами рисков» { {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Подтверждение копирования считается согласием с {{color_0}}{{link_0}} «Коммерческим соглашением» {{link_0}}{{color_0}} и {{color_2}}{{link_2}} «Правилами рисков» {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "необязательный)",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Расширенный режим",
   "hotcoinApp_v_1_3_121801_QuickMode": "Экспресс-режим",

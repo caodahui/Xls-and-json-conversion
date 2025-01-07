@@ -1,5 +1,8 @@
 let hk = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "已申領",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "您不符合活動參與條件",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "無法參與",
   "hotcoinApp_v1_2222223_AddUpTo10": "最多新增10個通行密鑰",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "目前設備已有通行金鑰",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "隱藏暫停儲值",
@@ -167,7 +170,7 @@ let hk = {
   "hotcoinApp_v1_3_11218_RiskControl": "風控",
   "hotcoinApp_v1_3_11218_Expired": "過期",
   "hotcoinApp_v1_3_11218_UsageDetails": "使用詳情",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "確認快速跟單視為同意{{color_0}}{{link_0}}《跟單員協定》{{link_0}}{{color_0}} 和{{color_2}}{{link_2}}《風險法則》{{ link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "確認快速跟單視為同意{{color_0}}{{link_0}}《跟單員協定》{{link_0}}{{color_0}} 和{{color_2}}{{link_2}}《風險法則》{{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "固定金額",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "跟單方式",
   "hotcoinApp_v_1_3_121801_MoreSettings": "更多設置",
@@ -176,7 +179,7 @@ let hk = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "享受高額帶單分潤",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "成為合約帶單交易員",
   "hotcoinApp_v_1_3_121801_Available": "可用:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "確認跟單視為同意{{color_0}}{{link_0}}《跟單員協議》{{link_0}}{{color_0}} 和{{color_2}}{{link_2}}《風險規則》{{link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "確認跟單視為同意{{color_0}}{{link_0}}《跟單員協議》{{link_0}}{{color_0}} 和{{color_2}}{{link_2}}《風險規則》{{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "（選填）",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "高級模式",
   "hotcoinApp_v_1_3_121801_QuickMode": "快速模式",

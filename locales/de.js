@@ -1,5 +1,8 @@
 let de = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Bereits beansprucht",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Sie sind nicht berechtigt, an der Veranstaltung teilzunehmen",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Teilnahme nicht möglich",
   "hotcoinApp_v1_2222223_AddUpTo10": "Fügen Sie bis zu 10 Passschlüssel hinzu",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "Das aktuelle Gerät verfügt bereits über einen Passschlüssel",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Unterbrochenes Aufladen ausblenden",
@@ -167,7 +170,7 @@ let de = {
   "hotcoinApp_v1_3_11218_RiskControl": "Windkontrolle",
   "hotcoinApp_v1_3_11218_Expired": "Abgelaufen",
   "hotcoinApp_v1_3_11218_UsageDetails": "Nutzungsdetails",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Die Bestätigung des Schnellkopierens gilt als Zustimmung zu {{color_0}}{{link_0}} „Commercialist Agreement“ {{link_0}}{{color_0}} und {{color_2}}{{link_2}} „Risikoregeln“ { { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Die Bestätigung des Schnellkopierens gilt als Zustimmung zu {{color_0}}{{link_0}} „Commercialist Agreement“ {{link_0}}{{color_0}} und {{color_2}}{{link_2}} „Risikoregeln“ {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Fixer Betrag",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Copy-Modus",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Mehr Einst.",
@@ -176,7 +179,7 @@ let de = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Hohe Leader-Provision",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Futures Leader werden",
   "hotcoinApp_v_1_3_121801_Available": "Verfügbar:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Die Bestätigung der Bestellung gilt als Zustimmung zu den {{color_0}}{{link_0}} „Commercialist Agreement“ {{link_0}}{{color_0}} und den {{color_2}}{{link_2}} „Risikoregeln“ { {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Die Bestätigung der Bestellung gilt als Zustimmung zu den {{color_0}}{{link_0}} „Commercialist Agreement“ {{link_0}}{{color_0}} und den {{color_2}}{{link_2}} „Risikoregeln“ {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "(optional)",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Erweiterter Modus",
   "hotcoinApp_v_1_3_121801_QuickMode": "Express-Modus",

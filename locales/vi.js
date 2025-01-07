@@ -1,5 +1,8 @@
 let vi = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Đã xác nhận quyền sở hữu",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Bạn không đủ điều kiện để tham gia sự kiện",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Không thể tham gia",
   "hotcoinApp_v1_2222223_AddUpTo10": "Thêm tối đa 10 mật mã",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "Thiết bị hiện tại đã có pass key",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Ẩn việc nạp tiền bị đình chỉ",
@@ -167,7 +170,7 @@ let vi = {
   "hotcoinApp_v1_3_11218_RiskControl": "Kiểm soát gió",
   "hotcoinApp_v1_3_11218_Expired": "Hết hạn",
   "hotcoinApp_v1_3_11218_UsageDetails": "Chi tiết sử dụng",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Việc xác nhận sao chép nhanh được coi là đồng ý với {{color_0}}{{link_0}} \"Thỏa thuận thương mại\" {{link_0}}{{color_0}} và {{color_2}}{{link_2}} \"Quy tắc rủi ro\" { { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Việc xác nhận sao chép nhanh được coi là đồng ý với {{color_0}}{{link_0}} \"Thỏa thuận thương mại\" {{link_0}}{{color_0}} và {{color_2}}{{link_2}} \"Quy tắc rủi ro\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Số Tiền Cố Định",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Chế Độ Copy",
   "hotcoinApp_v_1_3_121801_MoreSettings": "Cài Đặt Thêm",
@@ -176,7 +179,7 @@ let vi = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "Hoa Hồng Leader Cao",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Trở Thành Leader Futures",
   "hotcoinApp_v_1_3_121801_Available": "Khả dụng",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Việc xác nhận sao chép được coi là đồng ý với {{color_0}}{{link_0}} \"Thỏa thuận thương mại\" {{link_0}}{{color_0}} và {{color_2}}{{link_2}} \"Quy tắc rủi ro\" { {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Việc xác nhận sao chép được coi là đồng ý với {{color_0}}{{link_0}} \"Thỏa thuận thương mại\" {{link_0}}{{color_0}} và {{color_2}}{{link_2}} \"Quy tắc rủi ro\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": " Tùy chọn )",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Chế độ nâng cao",
   "hotcoinApp_v_1_3_121801_QuickMode": "Chế độ nhanh",

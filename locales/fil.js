@@ -1,5 +1,8 @@
 let fil = {
   // lingo-start
+  "hotcoinApp_v1_22_29_AlreadyClaimed": "Na-claim na",
+  "hotcoinApp_v1_22_29_YouDoNotMeet": "Hindi ka karapat-dapat na lumahok sa kaganapan",
+  "hotcoinApp_v1_22_29_UnableToParticipate": "Hindi makasali",
   "hotcoinApp_v1_2222223_AddUpTo10": "Magdagdag ng hanggang 10 pass key",
   "hotcoinApp_v1_2222223_TheCurrentDeviceAlready": "Ang kasalukuyang device ay mayroon nang pass key",
   "hotcoinApp_v_1_3_121801_HideSuspendRecharge": "Itago ang nasuspindeng recharge",
@@ -167,7 +170,7 @@ let fil = {
   "hotcoinApp_v1_3_11218_RiskControl": "Kontrol ng hangin",
   "hotcoinApp_v1_3_11218_Expired": "Nag-expire na",
   "hotcoinApp_v1_3_11218_UsageDetails": "Mga detalye ng paggamit",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Ang kumpirmasyon ng mabilisang pagkopya ay itinuturing na kasunduan sa {{color_0}}{{link_0}} \"Commercialist Agreement\" {{link_0}}{{color_0}} at {{color_2}}{{link_2}} \"Risk Rules\" { { link_2}}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheQuickFollowup": "Ang kumpirmasyon ng mabilisang pagkopya ay itinuturing na kasunduan sa {{color_0}}{{link_0}} \"Commercialist Agreement\" {{link_0}}{{color_0}} at {{color_2}}{{link_2}} \"Risk Rules\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_FixedAmount": "Fixed Amount",
   "hotcoinApp_v_1_3_121801_FollowupMethod": "Copy Mode",
   "hotcoinApp_v_1_3_121801_MoreSettings": "More Settings",
@@ -176,7 +179,7 @@ let fil = {
   "hotcoinApp_v_1_3_121801_EnjoyHighCommissionsFor": "High Leader Commission",
   "hotcoinApp_v_1_3_121801_BecomeAContractTrader": "Be Futures Leader",
   "hotcoinApp_v_1_3_121801_Available": "Available:",
-  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Ang kumpirmasyon ng pagkopya ay itinuturing na kasunduan sa {{color_0}}{{link_0}} \"Commercialist Agreement\" {{link_0}}{{color_0}} at {{color_2}}{{link_2}} \"Risk Rules\" { {link_2 }}{{color_2}}",
+  "hotcoinApp_v_1_3_121801_ConfirmingTheCopyOrder": "Ang kumpirmasyon ng pagkopya ay itinuturing na kasunduan sa {{color_0}}{{link_0}} \"Commercialist Agreement\" {{link_0}}{{color_0}} at {{color_2}}{{link_2}} \"Risk Rules\" {{link_2}}{{color_2}}",
   "hotcoinApp_v_1_3_121801_Optional": "(opsyonal)",
   "hotcoinApp_v_1_3_121801_AdvancedMode": "Advanced na mode",
   "hotcoinApp_v_1_3_121801_QuickMode": "Express mode",
