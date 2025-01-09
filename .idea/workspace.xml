@@ -7,7 +7,35 @@
     <list default="true" id="899bdd99-7067-4821-840a-9ded16239630" name="Default Changelist" comment="添加简版H5获取翻译">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/getLiteLocals.js" beforeDir="false" afterPath="$PROJECT_DIR$/getLiteLocals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/fil.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/fil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/hk.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/hk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/longest.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/longest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/de.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/es.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/fil.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/fil.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/hk.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/hk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/ko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/pt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/th.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/th.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/vi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/zh.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/zh.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +130,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.lite_locals" />
-        <item itemvalue="npm.sync_i18n_h5" />
         <item itemvalue="Node.js.getLiteLocals.js" />
+        <item itemvalue="npm.sync_i18n_h5" />
         <item itemvalue="Node.js.xlsToJs_H5.js" />
         <item itemvalue="Node.js.xlsToJs_web.js" />
       </list>
@@ -188,7 +216,9 @@
       <workItem from="1721264345383" duration="1807000" />
       <workItem from="1721352670519" duration="592000" />
       <workItem from="1724834049729" duration="2210000" />
-      <workItem from="1736154308740" duration="4809000" />
+      <workItem from="1736154308740" duration="6303000" />
+      <workItem from="1736394578990" duration="1100000" />
+      <workItem from="1736416648456" duration="938000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>
