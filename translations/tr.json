@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "KEÇİ TESTİ",
   "appHome_v11_GoogleAuthenticator": "Google doğrulaması",
   "appHome_v101122_ReCAPTCHA": "reCAPTCHA",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Doğrulama başarısız. Manuel değiştir"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Doğrulama başarısız. Manuel değiştir",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "Doğrulama Değiştir",
+  "third_login_001": "veya"
 }

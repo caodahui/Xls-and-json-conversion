@@ -22,6 +22,8 @@
       <change beforePath="$PROJECT_DIR$/locales/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/tr.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/locales/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/vi.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/locales/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/translations/de.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/de.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/translations/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/en.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/translations/es.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/es.json" afterDir="false" />
@@ -130,8 +132,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.lite_locals" />
-        <item itemvalue="Node.js.getLiteLocals.js" />
         <item itemvalue="npm.sync_i18n_h5" />
+        <item itemvalue="Node.js.getLiteLocals.js" />
         <item itemvalue="Node.js.xlsToJs_H5.js" />
         <item itemvalue="Node.js.xlsToJs_web.js" />
       </list>
@@ -218,7 +220,9 @@
       <workItem from="1724834049729" duration="2210000" />
       <workItem from="1736154308740" duration="6303000" />
       <workItem from="1736394578990" duration="1100000" />
-      <workItem from="1736416648456" duration="938000" />
+      <workItem from="1736416648456" duration="5942000" />
+      <workItem from="1736573271319" duration="3579000" />
+      <workItem from="1736761828335" duration="1178000" />
     </task>
     <task id="LOCAL-00001" summary="修改路径">
       <created>1631513486752</created>

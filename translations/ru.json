@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "ТЕСТ КОЗЫ",
   "appHome_v11_GoogleAuthenticator": "Google-верификация",
   "appHome_v101122_ReCAPTCHA": "реКАПЧА",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Проверка не удалась. Смените вручную"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Проверка не удалась. Смените вручную",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "Сменить Проверку",
+  "third_login_001": "или"
 }

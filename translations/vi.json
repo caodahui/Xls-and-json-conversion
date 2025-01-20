@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "ĐÃ KIỂM TRA",
   "appHome_v11_GoogleAuthenticator": "Xác thực 2 yếu tố (2FA)",
   "appHome_v101122_ReCAPTCHA": "reCAPTCHA",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Xác minh thất bại. Chuyển thủ công"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Xác minh thất bại. Chuyển thủ công",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "Chuyển đổi xác minh",
+  "third_login_001": "hoặc"
 }

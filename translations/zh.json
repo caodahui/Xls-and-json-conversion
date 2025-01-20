@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "GEETEST",
   "appHome_v11_GoogleAuthenticator": "谷歌验证",
   "appHome_v101122_ReCAPTCHA": "reCAPTCHA",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "人机校验失败，请手动切换尝试"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "人机校验失败，请手动切换尝试",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "切换人机验证方式",
+  "third_login_001": "或者"
 }

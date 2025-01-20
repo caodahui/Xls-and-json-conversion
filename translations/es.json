@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "PRUEBA DE CABRA",
   "appHome_v11_GoogleAuthenticator": "Verificación de Google",
   "appHome_v101122_ReCAPTCHA": "reCAPTCHA",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Verificación fallida. Cambiar manual"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Verificación fallida. Cambiar manual",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "Cambiar Verificación",
+  "third_login_001": "o"
 }

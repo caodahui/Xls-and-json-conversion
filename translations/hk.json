@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "山羊測試",
   "appHome_v11_GoogleAuthenticator": "谷歌驗證",
   "appHome_v101122_ReCAPTCHA": "驗證碼",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "人機校驗失敗，請手動切換嘗試"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "人機校驗失敗，請手動切換嘗試",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "切換人機驗證方式",
+  "third_login_001": "或者"
 }

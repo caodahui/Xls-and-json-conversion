@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "PAGSUSULIT NG KAMBING",
   "appHome_v11_GoogleAuthenticator": "Pag-verify ng Google",
   "appHome_v101122_ReCAPTCHA": "reCAPTCHA",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Verification failed. Switch manually"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Verification failed. Switch manually",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "Switch Verification",
+  "third_login_001": "o"
 }

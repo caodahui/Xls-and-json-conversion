@@ -96,5 +96,7 @@ createTranslationFiles([
     'appHome_v101122_TESTED',
     'appHome_v11_GoogleAuthenticator',
     'appHome_v101122_ReCAPTCHA',
-    'hotcoinApp_v101122_HumanmachineVerificationFailedPlease'
+    'hotcoinApp_v101122_HumanmachineVerificationFailedPlease',
+    'hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode',
+    'third_login_001'
 ]);

@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "ZIEGENTEST",
   "appHome_v11_GoogleAuthenticator": "Google-Bestätigung",
   "appHome_v101122_ReCAPTCHA": "reCAPTCHA",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Verifizierung fehlgeschlagen. Manuell wechseln"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Verifizierung fehlgeschlagen. Manuell wechseln",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "Verifizierung Wechseln",
+  "third_login_001": "Oder"
 }

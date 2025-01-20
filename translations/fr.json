@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "TEST DE CHÈVRE",
   "appHome_v11_GoogleAuthenticator": "Vérification Google",
   "appHome_v101122_ReCAPTCHA": "reCAPTCHA",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Vérification échouée. Changez manuel"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "Vérification échouée. Changez manuel",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "Changer Verification",
+  "third_login_001": "ou"
 }

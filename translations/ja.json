@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "ヤギ試験",
   "appHome_v11_GoogleAuthenticator": "Google認証",
   "appHome_v101122_ReCAPTCHA": "再キャプチャ",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "認証失敗。手動で切り替えてください"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "認証失敗。手動で切り替えてください",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "認証方式切替",
+  "third_login_001": "または"
 }

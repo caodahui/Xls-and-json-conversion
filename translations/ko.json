@@ -4,5 +4,7 @@
   "appHome_v101122_TESTED": "염소 테스트",
   "appHome_v11_GoogleAuthenticator": "구글 인증",
   "appHome_v101122_ReCAPTCHA": "리캡차",
-  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "인증 실패. 수동으로 전환하세요"
+  "hotcoinApp_v101122_HumanmachineVerificationFailedPlease": "인증 실패. 수동으로 전환하세요",
+  "hotcoinApp_v101122_SwitchHumanmachineAuthenticationMode": "인증방식 변경",
+  "third_login_001": "또는"
 }
